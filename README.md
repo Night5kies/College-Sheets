@@ -1,4 +1,4 @@
-# College Spreadsheets
+# College Sheets
 
 A data-driven platform for comparing **4,000+ U.S. colleges** across hundreds of criteria.  
 Built with **Python**, **Pandas**, and **Google Sheets / Google APIs**, it enables **real-time filtering, multi-dimensional search, and automatic data updates**.
